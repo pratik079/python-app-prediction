@@ -1,0 +1,111 @@
+<div class="product-item product-item--vertical 1/4--tablet-and-up 1/4--desk">
+ <a class="col_cat_item_link product-item__image-wrapper product-item__image-wrapper--with-secondary" href="/collections/carpet/products/carpets-chintz-collection-golden-carpets-brown" onclick="amplitude.getInstance().logEvent('view -Chintz Collection Carpets by Golden Carpets Ltd');">
+  <div class="aspect-ratio aspect-ratio--square" style="padding-bottom: 100.0%">
+   <img alt="Chintz Collection Carpets by Golden Carpets Ltd | Material Depot # color_Brown" class="product-item__primary-image lazyload image--fade-in" data-media-id="24360803139736" data-sizes="auto" data-src="//cdn.shopify.com/s/files/1/0577/4242/6264/products/Berber_cdcc146d-4415-490b-a7e2-7a93cc19e8ed_{width}x.png?v=1628800936" data-widths="[200,300,400,500,600,700,800]"/>
+   <img alt="Chintz Collection Carpets by Golden Carpets Ltd | Material Depot # color_Blue" class="product-item__secondary-image lazyload image--fade-in" data-sizes="auto" data-src="//cdn.shopify.com/s/files/1/0577/4242/6264/products/Royal_Blue_ec8255fb-892a-4c2d-84be-6dce5790aadb_{width}x.png?v=1628800936" data-widths="[200,300,400,500,600,700,800]"/>
+   <noscript>
+    <img alt="Chintz Collection Carpets by Golden Carpets Ltd | Material Depot # color_Brown" src="//cdn.shopify.com/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif"/>
+   </noscript>
+  </div>
+ </a>
+ <div class="product-item__info">
+  <div class="product-item__info-inner">
+   <div style="display: flex; justify-content: space-between">
+    <div>
+     <a class="col_brand_link vendor product-item__vendor link" href="/collections/golden-carpets" onclick="amplitude.getInstance().logEvent('view-Golden Carpets');">
+      Golden Carpe ...
+     </a>
+     <!--           <div>Golden Carpe ... </div> -->
+     <a class="col_cat_item_link product-item__title text--strong link" href="/collections/carpet/products/carpets-chintz-collection-golden-carpets-brown" onclick="amplitude.getInstance().logEvent('view-Chintz Collection Carpets by Golden Carpets Ltd');">
+      Chintz Co ... (4)
+     </a>
+    </div>
+    <div class="add_to_cart_btn" onclick="amplitude.getInstance().logEvent('add to cart-Chintz Collection Carpets by Golden Carpets Ltd');" style=" align-items: center; width: 30%">
+     <form accept-charset="UTF-8" action="/cart/add" enctype="multipart/form-data" method="post" style="position:relative; left: 20%">
+      <input name="form_type" type="hidden" value="product">
+       <input name="utf8" type="hidden" value="?">
+        <input name="quantity" type="hidden" value="1"/>
+        <input name="id" type="hidden" value="40637799268504"/>
+        <button class="col_cat_a2c" data-action="add-to-cart" style="width: 75%" type="submit">
+         <img src="https://cdn.shopify.com/s/files/1/0577/4242/6264/files/Add_to_the_Box_1.png?v=1628055029" width="90%"/>
+        </button>
+       </input>
+      </input>
+     </form>
+    </div>
+   </div>
+   <div class="product-item__swatch-list">
+    <div class="color-swatch-list">
+     <div class="color-swatch">
+      <input aria-label="Brown" class="color-swatch__radio" data-image-aspect-ratio="1.0" data-image-url="//cdn.shopify.com/s/files/1/0577/4242/6264/products/Berber_cdcc146d-4415-490b-a7e2-7a93cc19e8ed_{width}x.png?v=1628800936" data-image-widths="[200,300,400,500,600,700,800]" data-media-id="24360803139736" data-variant-url="/products/carpets-chintz-collection-golden-carpets-brown?variant=40637799235736" id="collection-template-6934523281560-1" name="collection-template-6934523281560" type="radio" value="Brown"/>
+      <label class="color-swatch__item lazyload" data-bg="//cdn.shopify.com/s/files/1/0577/4242/6264/files/brown_64x64.png?v=1627420477" for="collection-template-6934523281560-1" title="Brown">
+       <span class="visually-hidden">
+        Brown
+       </span>
+      </label>
+      <a class="color-swatch__item-link" href="/products/carpets-chintz-collection-golden-carpets-brown">
+       +4
+      </a>
+     </div>
+     <div class="color-swatch">
+      <input aria-label="Blue" checked="checked" class="color-swatch__radio" data-image-aspect-ratio="1.0" data-image-url="//cdn.shopify.com/s/files/1/0577/4242/6264/products/Royal_Blue_ec8255fb-892a-4c2d-84be-6dce5790aadb_{width}x.png?v=1628800936" data-image-widths="[200,300,400,500,600,700,800]" data-media-id="24360803172504" data-variant-url="/products/carpets-chintz-collection-golden-carpets-brown?variant=40637799268504" id="collection-template-6934523281560-2" name="collection-template-6934523281560" type="radio" value="Blue"/>
+      <label class="color-swatch__item lazyload" for="collection-template-6934523281560-2" style="background-color: blue" title="Blue">
+       <span class="visually-hidden">
+        Blue
+       </span>
+      </label>
+      <a class="color-swatch__item-link" href="/products/carpets-chintz-collection-golden-carpets-brown">
+       +3
+      </a>
+     </div>
+     <div class="color-swatch">
+      <input aria-label="Green" class="color-swatch__radio" data-image-aspect-ratio="1.0" data-image-url="//cdn.shopify.com/s/files/1/0577/4242/6264/products/Bottle_Green_cc9eabfe-25b7-4dfc-9925-3f5f3769586d_{width}x.png?v=1628800936" data-image-widths="[200,300,400,500,600,700,800]" data-media-id="24360803270808" data-variant-url="/products/carpets-chintz-collection-golden-carpets-brown?variant=40637799301272" id="collection-template-6934523281560-3" name="collection-template-6934523281560" type="radio" value="Green"/>
+      <label class="color-swatch__item lazyload" for="collection-template-6934523281560-3" style="background-color: green" title="Green">
+       <span class="visually-hidden">
+        Green
+       </span>
+      </label>
+      <a class="color-swatch__item-link" href="/products/carpets-chintz-collection-golden-carpets-brown">
+       +2
+      </a>
+     </div>
+     <div class="color-swatch">
+      <input aria-label="Red" class="color-swatch__radio" data-image-aspect-ratio="1.0" data-image-url="//cdn.shopify.com/s/files/1/0577/4242/6264/products/Red_f8f3d370-9afc-4d21-89bc-66e4895c16d9_{width}x.png?v=1628800936" data-image-widths="[200,300,400,500,600,700,800]" data-media-id="24360803336344" data-variant-url="/products/carpets-chintz-collection-golden-carpets-brown?variant=40637799334040" id="collection-template-6934523281560-4" name="collection-template-6934523281560" type="radio" value="Red"/>
+      <label class="color-swatch__item lazyload" for="collection-template-6934523281560-4" style="background-color: red" title="Red">
+       <span class="visually-hidden">
+        Red
+       </span>
+      </label>
+      <a class="color-swatch__item-link" href="/products/carpets-chintz-collection-golden-carpets-brown">
+       +1
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="product-item__price-list price-list">
+    <span class="price">
+     <span class="visually-hidden">
+      Sale price
+     </span>
+     <span class="hidden">
+      Rs. 0.00
+     </span>
+    </span>
+   </div>
+  </div>
+  <form accept-charset="UTF-8" action="/cart/add" class="product-item__action-list product-item__action-list--list-view-only button-stack" enctype="multipart/form-data" id="product_form_id_6934523281560_collection-template" method="post">
+   <input name="form_type" type="hidden" value="product">
+    <input name="utf8" type="hidden" value="?">
+     <input name="quantity" type="hidden" value="1"/>
+     <input name="id" type="hidden" value="40637799268504"/>
+     <button class="col_cat_a2c product-item__action-button product-item__action-button--list-view-only button button--small button--secondary" data-action="add-to-cart" type="submit">
+      Add to Cart
+     </button>
+     <button aria-controls="modal-quick-view-collection-template" class="col_cat_a2c product-item__action-button product-item__action-button--list-view-only button button--small button--ternary hidden-phone" data-action="open-modal" data-product-url="/products/carpets-chintz-collection-golden-carpets-brown" data-secondary-action="open-quick-view" type="button">
+      Quick view
+     </button>
+    </input>
+   </input>
+  </form>
+ </div>
+</div>
